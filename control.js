@@ -1,3 +1,3 @@
 exports.hello = (req,res) =>{
-    res.json('Hello World');
+    res.json('Hello World, its sunny outside');
 }
